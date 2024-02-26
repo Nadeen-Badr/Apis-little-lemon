@@ -1,4 +1,4 @@
-# My own edits on Coursera: Introduction to APIs
+# My  edits on Coursera: Introduction to APIs
 
 ## Project structure and API routes
 
